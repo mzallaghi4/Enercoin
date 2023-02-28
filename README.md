@@ -1,0 +1,2 @@
+# Enercoin
+Enercoin 
